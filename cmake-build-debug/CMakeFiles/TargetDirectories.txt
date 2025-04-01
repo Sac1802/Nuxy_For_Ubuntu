@@ -1,0 +1,3 @@
+/home/sac1802/CLionProjects/NuxyVerUbuntu/cmake-build-debug/CMakeFiles/NuxyVerUbuntu.dir
+/home/sac1802/CLionProjects/NuxyVerUbuntu/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sac1802/CLionProjects/NuxyVerUbuntu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
